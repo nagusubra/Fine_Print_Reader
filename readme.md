@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](\images\FPR_logo.png)
+[![Product Name Screen Shot][product-screenshot]](/images/FPR_logo.png)
 
 Often we have to read a lot of fine print on a day to day basis. It could be insurance papers, instruction manuals, warranty papers, etc. Wouldn't be easy to have a software on the go to read and comprehend the important infomration from fine prints quickly?
 
